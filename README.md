@@ -11,6 +11,7 @@ Llavors tocarà reinventar la roda! Crear like README amb funcions matemàtiques
   1. [Aprendre Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. Confeccionar un parser per a generar el codi matemàtic desitjat.
 3. DJango vs Vibora
+  1. DJango ha guanyat el combat!
 4. JavaScript
 
 Investiguat 2 minuts:
